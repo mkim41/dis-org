@@ -21,6 +21,11 @@ p {
     margin-top: -70px;
 }
 
+.small {
+    font-size: 15px;
+    color:gold;
+}
+
 
 /* .intro_video {
     position: relative;
@@ -63,8 +68,8 @@ li:hover {
 }
 
 @keyframes marquee{
-	0%{transform: translateX(100%);}
-	100%{transform: translateX(-100%);}
+	0%{transform: translateY(180%);}
+	100%{transform: translateY(-200%);}
 }
 
 @media (prefers-reduced-motion: no-preference) {
