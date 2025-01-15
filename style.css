@@ -4,20 +4,19 @@ font-family: 'Xanh Mono', monospace; */
 body { 
     width: 100%;
     height: 100%;
-    overflow: hidden;
     background-color: black;
 }
 
 p {
     font-family: 'Martin Mono', monospace;
     color: rgb(34, 211, 255);
-    font-size: 30px;
+    font-size: 15px;
     text-align: center;
     margin: 100px;
 }
 
 .p_small {
-    font-size: 10px;
+    font-size: 8px;
     margin-top: -70px;
 }
 
